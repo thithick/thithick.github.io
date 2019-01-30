@@ -1,0 +1,21 @@
+---
+- name: FrogAsia
+  organization: FrogAsia
+  github_repo: FrogAsia
+  image: FrogAsia.jpg
+  link: https://FrogAsia.my
+  about: |
+    <a href="https://FrogAsia.my">FrogAsia</a> is a FrogAsia is a social enterprise that catalyses change in education by doing things differently. 
+    As the first effort in the world to connect an entire nation through a single, cloud-based learning platform, we are constantly looking for ways for create an impact in teaching, learning and classrooms.
+    <br/>
+    I am currently the Test automation engineering lead on this project.
+- name: COGNIZANT
+  organization: COGNIZANT
+  github_repo: COGNIZANT
+  image: cognizant.png
+  link: https://cognizant.com
+  about: |
+    <a href="https://cognizant.com">COGNIZANT</a> is a IT Service provider
+    <br/>
+    I started my software career with cognizant.
+
